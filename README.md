@@ -1,7 +1,5 @@
 # 🛡️ Credit Card Fraud Detection Using ML&DL - Graduation Project🎓
 
-[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,6 +30,9 @@ Credit card fraud causes **billions of dollars in losses** every year. This proj
 - Worked on a real-world Kaggle dataset: **284,807 transactions**, only **0.17% fraudulent**
 - Evaluated using ROC-AUC, Precision, Recall, F1-Score — not just accuracy (which is misleading on imbalanced data)
 
+> **💡 Want to see the story behind the code?** 
+> Check out our [Full Visual Journey](./FULL_JOURNEY.md) to see step-by-step how we tackled class imbalance, processed the data, and built the final Flask app with all the screenshots!
+
 ---
 
 ## Why This Project Matters?💡
@@ -61,6 +62,7 @@ and **inference speed**.
 
 > The dataset contains transactions by European cardholders in September 2013. Features V1–V28 are the result of PCA transformation to protect user privacy. Only `Time` and `Amount` are in their original form.
 
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
 ---
 
 ## 🧠 ML Pipeline Overview
@@ -101,6 +103,7 @@ Raw Data (284,807 txns)
   Flask REST API + Web UI Deployment
 ```
 
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
 ---
 
 ## 🤖 Models & Results
@@ -138,6 +141,7 @@ The best model was chosen not by accuracy alone (misleading on imbalanced data),
 
 Logistic Regression + **SMOTE** produced the best balance of all three.
 
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
 ---
 
 
@@ -251,6 +255,7 @@ credit-card-fraud-detection/
 | **Deployment** | Serialized model with Pickle, served via Flask REST API |
 | **Data Leakage Prevention** | Avoided common pitfalls by ensuring SMOTE was applied only within the Cross-Validation loop, preventing synthetic data from "leaking" into the validation set. |
 
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
 ---
 
 ## 📐 System Design (UML)
