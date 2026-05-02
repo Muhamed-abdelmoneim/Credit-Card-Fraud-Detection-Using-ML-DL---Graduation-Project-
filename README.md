@@ -13,7 +13,7 @@
 
 *A complete end-to-end Machine Learning system: from raw imbalanced data to a deployed REST API web application capable of detecting fraudulent credit card transactions in real time.*
 
-> **Supervisor:** DR. Mahmoud Ata-Allah &nbsp;|&nbsp; **Student:** Muhammed Abd Elmoneim Nabawy Fathallah &nbsp;|&nbsp; **ID:** 2051710891
+> **Student:** Muhammed Abd Elmoneim Nabawy Fathallah &nbsp;|&nbsp; **Supervisor:** DR. Mahmoud Ata-Allah &nbsp;|&nbsp;  **ID:** 2051710891
 
 </div>
 
