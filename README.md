@@ -1,5 +1,7 @@
 # 🛡️ Credit Card Fraud Detection Using ML&DL - Graduation Project🎓
 
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
