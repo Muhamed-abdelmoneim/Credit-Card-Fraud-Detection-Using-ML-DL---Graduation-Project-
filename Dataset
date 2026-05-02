@@ -1,0 +1,16 @@
+---
+
+## 📊 Dataset
+
+| Property | Value |
+|---|---|
+| 📂 Source | [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/muhammedabdelmoneim/european-cardholders-in2013-284-000-transactions) |
+| 📝 Total Transactions | **284,807** |
+| 🚨 Fraudulent Transactions | **492 (0.17%)** |
+| ✅ Legitimate Transactions | **284,315 (99.83%)** |
+| 🔢 Features | **31** (Time, Amount + V1–V28 via PCA) |
+| ⚖️ Class Imbalance | Extreme — required special handling |
+
+> The dataset contains transactions by European cardholders in September 2013. Features V1–V28 are the result of PCA transformation to protect user privacy. Only `Time` and `Amount` are in their original form.
+
+---
