@@ -36,7 +36,7 @@ Credit card fraud causes **billions of dollars in losses** every year. This proj
 
 | Property | Value |
 |---|---|
-| 📂 Source | [Kaggle — Credit Card Fraud Detection]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/muhammedabdelmoneim/european-cardholders-in2013-284-000-transactions)) |
+| 📂 Source [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/muhammedabdelmoneim/european-cardholders-in2013-284-000-transactions) |
 | 📝 Total Transactions | **284,807** |
 | 🚨 Fraudulent Transactions | **492 (0.17%)** |
 | ✅ Legitimate Transactions | **284,315 (99.83%)** |
