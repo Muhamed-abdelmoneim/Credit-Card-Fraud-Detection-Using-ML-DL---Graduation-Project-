@@ -1,4 +1,4 @@
-# 🛡️ Credit Card Fraud Detection Using ML&DL — Graduation Project🎓
+# 🛡️ Credit Card Fraud Detection Using ML&DL - Graduation Project🎓
 
 <div align="center">
 
