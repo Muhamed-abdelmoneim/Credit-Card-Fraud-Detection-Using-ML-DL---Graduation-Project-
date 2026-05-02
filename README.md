@@ -195,6 +195,8 @@ python app.py
 # 4. Open your browser at http://localhost:5000
 ```
 
+![Web App Home Full](Docs/journey_screenshots/Flask_Web_App.png)
+
 ---
 
 ## 🗂️ Project Structure
