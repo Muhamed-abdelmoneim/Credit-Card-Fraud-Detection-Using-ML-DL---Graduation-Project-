@@ -12,7 +12,7 @@ The very first thing you notice when you open this dataset: **99.83% of transact
 
 This means a model that just screams "NOT FRAUD" on everything would score **99.83% accuracy**. Completely useless. This single observation shapes every decision we make from here.
 
-![Class Distribution](docs/journey_screenshots/01_class_distribution.png)
+![Class Distribution](docs/journey_screenshots/class_distribution.png)
 
 ---
 
