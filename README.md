@@ -346,6 +346,10 @@ Supervisor: DR. Mahmoud Ata-Allah
 This project is open source under the [MIT License](LICENSE).
 
 ---
+[![Presentation](https://img.shields.io/badge/Project-Presentation-orange?style=for-the-badge&logo=microsoftpowerpoint)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-Using-ML-DL---Graduation-Project-/blob/main/Docs/presentaion.pptx) 
+[![Report](https://img.shields.io/badge/Project-Final_Report-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-Using-ML-DL---Graduation-Project-/blob/main/Docs/GP_Final_report.docx)
+[![Full Journey](https://img.shields.io/badge/Project-Full_Journey_Visuals-blueviolet?style=for-the-badge&logo=storybook)](./FULL_JOURNEY.md)
+---
 
 <div align="center">
   <sub>Built with ☕ and a lot of confusion matrices</sub>
