@@ -1,5 +1,4 @@
 # 🛡️ Credit Card Fraud Detection Using ML&DL - Graduation Project🎓
-[![Presentation](https://img.shields.io/badge/Project-Presentation-orange?style=for-the-badge&logo=microsoftpowerpoint)](https://github.com/USER_NAME/REPO_NAME/blob/main/Docs/pesentaion.pptx)
 
 <div align="center">
 
@@ -39,6 +38,10 @@ Credit card fraud causes **billions of dollars in losses** every year. This proj
 
 > **💡 Want to see the story behind the code?** 
 > Check out our [Full Visual Journey](./FULL_JOURNEY.md) to see step-by-step how we tackled class imbalance, processed the data, and built the final Flask app with all the screenshots!
+>
+
+[![Presentation](https://img.shields.io/badge/Project-Presentation-orange?style=for-the-badge&logo=microsoftpowerpoint)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-Using-ML-DL---Graduation-Project-/blob/main/Docs/presentaion.pptx) 
+[![Report](https://img.shields.io/badge/Project-Final_Report-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-Using-ML-DL---Graduation-Project-/blob/main/Docs/GP_Final_report.docx)
 
 ---
 
@@ -232,6 +235,9 @@ credit-card-fraud-detection/
 └── docs/
     └── Graduation_Project_Final_report.docx
 ```
+ 
+[![Report](https://img.shields.io/badge/Project-Final_Report-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-Using-ML-DL---Graduation-Project-/blob/main/Docs/GP_Final_report.docx)
+
 
 ---
 
