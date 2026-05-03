@@ -1,5 +1,4 @@
-*.css linguist-generated=true
-*.html linguist-generated=true
+
 
 *.ipynb linguist-detectable=true
 *.ipynb linguist-documentation=false
